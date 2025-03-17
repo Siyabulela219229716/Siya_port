@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Siyabulela219229716/portfolio.git/static/css/main.c2b885d5.css",
+    "main.js": "/Siyabulela219229716/portfolio.git/static/js/main.a336552e.js",
+    "static/js/453.2ee68489.chunk.js": "/Siyabulela219229716/portfolio.git/static/js/453.2ee68489.chunk.js",
+    "index.html": "/Siyabulela219229716/portfolio.git/index.html",
+    "static/media/logo.svg": "/Siyabulela219229716/portfolio.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.c2b885d5.css.map": "/Siyabulela219229716/portfolio.git/static/css/main.c2b885d5.css.map",
+    "main.a336552e.js.map": "/Siyabulela219229716/portfolio.git/static/js/main.a336552e.js.map",
+    "453.2ee68489.chunk.js.map": "/Siyabulela219229716/portfolio.git/static/js/453.2ee68489.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2b885d5.css",
+    "static/js/main.a336552e.js"
+  ]
+}
